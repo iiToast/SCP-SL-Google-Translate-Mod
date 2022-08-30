@@ -1,0 +1,22 @@
+Steamed with alpha head.
+Broken legs and feet represent fatal fall injuries.
+Signs of severe injury to both femurs indicated death from hemorrhagic shock.
+I fell into the bag.
+Remnants of SCP-106.
+Danger of electrical burns.
+Fatal wound; very painful and distant.
+[ammotype] gunshot wound.
+Fracture of the cervical vertebrae at the base of the skull.
+Diffuse degeneration of body tissues.
+The signs of life suddenly stopped. No obvious damage.
+The cause of death is unknown.
+It's <b>[user]</b>'s body - they were [class]!\n\nCause of death: [cause]
+The wound was huge and bleeding profusely.
+There are large, deep bite marks on the body.
+It dissolves in very perishable substances.
+Explosions and burns from explosions.
+Pale skin and mouth bleeding indicate internal bleeding after ingestion.
+Put it back.
+There is obvious damage and minor scratches on the body.
+Deep wounds bleed profusely.
+Unhealthy yellow skin and a bitter taste indicate death from poisoning.

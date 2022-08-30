@@ -1,0 +1,43 @@
+0~Overseer's Key Card
+1~Science Key Card
+2~Search control key map
+3~Regional administrator key card
+4~Doorman key card
+5~The secret key card of the mobile working group
+6~Containment Engineers Key Card
+7~MTG Sergeant's Key Card
+8~MTG Captain's Key Card
+9~Business Manager Key Card
+10~Chaos Rebellion access tool
+11~O5 Key Cards
+12~Radio
+13~COM-15
+14~First Aid Kit~Heal your wounds.
+15~Torch~Let there be light!
+16~Micro H.I.D.~Mobile dropper for high intensity discharge.
+17~SCP-500~The Elixir.
+18~SCP-207~Harmful enhancement of athletic performance.
+20~MTF-E11-SR
+21~Cross Week
+23~FSP-9
+24~logical
+25~High Explosive Frag Grenade~BOOM!
+26~Flash Grenade~Blinds the enemy.
+30~COM-18
+31~SCP-018~Super Ball has a very effective bouncing ability.
+32~SCP-268~When worn, it becomes temporarily invisible unless it interferes with the user's controls.
+33~Adrenaline~Temporarily increases stamina.
+34~ Painkiller~Soothes minor injuries.
+35~Coin~I don't know why I take this...
+36~light armor
+37~Battle Gear
+38~Weight Trainer
+39~.44 guns
+40~AK
+41~Gunpowder
+42~One bag of sweets~One bag contains the following sweets.
+43~SCP-2176~Your aura!
+44~SCP-244-A~An ancient vessel that freezes when touched. When placed, the snow creates a large cloud of mist.
+45~SCP-244-B~An ancient vessel that freezes when touched. When placed, the snow creates a large cloud of mist.
+46~SCP-1853~Enhances weapon handling abilities with high energy consumption.
+47~3-X Particle Emitter
