@@ -1,0 +1,6 @@
+<color=red>REJECTED</color>
+It has reached its limits <color=yellow>[type] shooting</color> (<color=yellow>[max_type_count] get up</color>).
+<b>Now</b> reached its limits <color=yellow>[type] shooting</color> (<color=yellow>[max_type_count] get up</color>).
+It has reached its limits <color=yellow>[type]</color> (<color=yellow>[max_type_count] things</color>).
+<b>Now</b> It has reached its limits <color=yellow>[type]</color> (<color=yellow>[max_type_count] things</color>).
+Only <color=yellow>[max_item_count] things</color> can lead.
