@@ -8,7 +8,7 @@ I will be updating this and I will update them when 12.0 comes out and any other
 
 Hopefully people will use this just to get a good laugh! I have to say there are a lot of interesting translations...
 
-
+Oh and please, if there are any broken text please tell me, Toast_#4186!
 
 
 VER 1.0.0
