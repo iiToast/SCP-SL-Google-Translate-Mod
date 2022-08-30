@@ -11,4 +11,4 @@ Hopefully people will use this just to get a good laugh! I have to say there are
 Oh and please, if there are any broken text please tell me, Toast_#4186!
 
 
-VER 1.0.0
+VER 1.1.0
