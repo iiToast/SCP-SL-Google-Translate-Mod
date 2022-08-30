@@ -1,7 +1,0 @@
-Player
-Target:\nPlayer ID:\nDescription:
-Denial
-Report a server violation
-Report a scam or raid
-Account
-Please wait...
